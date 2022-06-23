@@ -62,9 +62,9 @@ def verify_blockchain():
 
 
 make_genesis_block()
-add_block('박혜수')
-add_block('박현수')
-add_block('이승지')
+add_block('apple')
+add_block('banana')
+add_block('candy')
 show_blockchain()
 print()
 print(verify_blockchain())
